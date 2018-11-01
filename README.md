@@ -8,7 +8,9 @@ API based projects, bots, react.js, node-sql projects etc.
 This is solely for learning purposes and to track improvement.
 
 
-## Challenge 1 from https://www.w3resource.com/javascript-exercises/javascript-conditional-statements-and-loops-exercises.php (number 5)
+### Challenge 1 
+from https://www.w3resource.com/javascript-exercises/javascript-conditional-statements-and-loops-exercises.php (number 5)
+
 Write a JavaScript for loop that will iterate from 0 to 15. For each iteration, it will check if the current number is odd or even, and display a message to the screen.
 
 Sample Output: 
@@ -16,4 +18,4 @@ Sample Output:
 "1 is odd" 
 "2 is even" 
 
-## Challenge 2
+### Challenge 2
