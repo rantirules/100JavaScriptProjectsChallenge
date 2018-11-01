@@ -1,4 +1,4 @@
-# 100JavaScriptProjectsChallenge
+# 100 JavaScript Projects Challenge
 
 This is a challenge that I have set myself to push 100 JavaScript Projects into this repository. 
 'JavaScript' here refers to the primary language that I'll be using and so the projects can include but are not limited to the following: 
