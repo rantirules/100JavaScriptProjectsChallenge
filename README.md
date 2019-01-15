@@ -19,3 +19,5 @@ Sample Output:
 "2 is even" 
 
 ### Challenge 2
+from Angela Yu's The complete web development bootcampt from Udemy.
+Using the .length, .slice and .toUpperCase functions and string concatenation create a programme that automatically converts user input so that it always starts with a capital letter and rest are lower case letters. 
