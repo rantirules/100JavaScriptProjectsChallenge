@@ -25,3 +25,7 @@ Using the .length, .slice and .toUpperCase functions and string concatenation cr
 ### Challenge 3
 from Angela Yu's The complete web development bootcamp from Udemy.
 Create a mini programme that slices the user's input to only give you the first 140 characters (I changed it to 280). Tell the user how many characters they have used up and what's left and outputs the sliced tweet.
+
+### Challenge 4
+From Angela Yu's The complete web development bootcamp from Udemy.
+Create a BMI calculator
